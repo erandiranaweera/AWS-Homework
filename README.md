@@ -44,7 +44,7 @@ video - https://www.youtube.com/watch?v=s4mQHy3xdoo
 
 4) CREATE YOUR FIRST AMAZON S3 BUCKET
 #
-** Amazon Simple Storage Service(Amazon S3)
+**Amazon Simple Storage Service(Amazon S3)
 #
 ![image](https://cloud.githubusercontent.com/assets/18344284/16668173/8d406b7e-44ad-11e6-9746-a60682c95cf9.png)
 #
