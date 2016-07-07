@@ -45,7 +45,8 @@ Amazon Simple Storage Service(Amazon S3)
 ** Amazon Simple Storage Service is storage for the Internet. It is designed to make web-scale computing easier for developers.Amazon S3 has a simple web services interface that  can use to store and retrieve any amount of data, at any time, from anywhere on the web. It gives any developer access to the same highly scalable, reliable, fast, inexpensive data storage infrastructure that Amazon uses to run its own global network of web sites. The service aims to maximize benefits of scale and to pass those benefits on to developers.
 This Lab session guides through the bucket creation process and its first usage. The Cloud Academy Labs Engine constantly checks the Lab environment, giving  instant feedback on  work.
 #
-This Lab guides you through the bucket creation process and its first usage. The Cloud Academy Labs Engine constantly checks the Lab environment, giving you instant feedback on your work
+This Lab guided through the bucket creation process and its first usage. The Cloud Academy Labs Engine constantly checks the Lab environment, giving you instant feedback on work.
+#
 video - https://www.youtube.com/watch?v=NOY8Qsr1tmw
 
 5) CREATE AN EBS-BACKED LINUX AMI
