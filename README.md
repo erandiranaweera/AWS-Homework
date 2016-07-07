@@ -11,7 +11,6 @@ Following lab sessions were completed
 
 #
 
-
 1) CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
 #
 ** Amazon EC2 - Virtual Server Hosting 
@@ -35,7 +34,6 @@ Video-2 - https://www.youtube.com/watch?v=v13WszphQ3o
 3) MANAGING INSTANCE VOLUMES USING EBS
 
 ** Amazon Elastic Block Store (EBS)
-![image](https://cloud.githubusercontent.com/assets/18344284/16668058/13aad3b2-44ad-11e6-8f79-7ba0d4e2fdd6.png)
 #
 Amazon Elastic Block Store (Amazon EBS) provides persistent block level storage volumes for use with Amazon EC2 instances in the AWS Cloud.
 EBS supports a number of advanced storage features, including snapshotting and cloning.EBS volumes are built on replicated back end storage, so that the failure of a single component will not cause data loss.
@@ -47,7 +45,8 @@ video - https://www.youtube.com/watch?v=s4mQHy3xdoo
 4) CREATE YOUR FIRST AMAZON S3 BUCKET
 #
 ** Amazon Simple Storage Service(Amazon S3)
-
+#
+![image](https://cloud.githubusercontent.com/assets/18344284/16668173/8d406b7e-44ad-11e6-9746-a60682c95cf9.png)
 #
 Amazon Simple Storage Service is storage for the Internet. It is designed to make web-scale computing easier for developers.Amazon S3 has a simple web services interface that  can use to store and retrieve any amount of data, at any time, from anywhere on the web. It gives any developer access to the same highly scalable, reliable, fast, inexpensive data storage infrastructure that Amazon uses to run its own global network of web sites. The service aims to maximize benefits of scale and to pass those benefits on to developers.
 This Lab session guides through the bucket creation process and its first usage. The Cloud Academy Labs Engine constantly checks the Lab environment, giving  instant feedback on  work.
