@@ -43,8 +43,8 @@ During this laboratory, I was able to learn to create an EC2 instance with an ad
 video - https://www.youtube.com/watch?v=s4mQHy3xdoo
 
 4) CREATE YOUR FIRST AMAZON S3 BUCKET
-#
-**Amazon Simple Storage Service(Amazon S3)
+
+** Amazon Simple Storage Service(Amazon S3)
 #
 ![image](https://cloud.githubusercontent.com/assets/18344284/16668173/8d406b7e-44ad-11e6-9746-a60682c95cf9.png)
 #
@@ -64,6 +64,10 @@ During this lab session I was able to setup a webserver EC2 instance starting fr
 video - https://www.youtube.com/watch?v=CvkKIukl_dI
 
 6) CREATE YOUR FIRST AMAZON RDS DATABASE
+
+**Amazon Relational Database Service (Amazon RDS)
+
+![image](https://cloud.githubusercontent.com/assets/18344284/16668248/e07f9dfa-44ad-11e6-9735-d73923109012.png)
 #
 Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks.Amazon RDS provides six familiar database engines to choose from, including Amazon Aurora, Oracle, Microsoft SQL Server, PostgreSQL, MySQL and MariaDB.
 #
