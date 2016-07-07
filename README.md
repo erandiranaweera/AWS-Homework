@@ -11,6 +11,7 @@ Following lab sessions were completed
 
 #
 Used Services 
+![image](https://cloud.githubusercontent.com/assets/18344284/16667819/0432762a-44ac-11e6-843b-94ec8b98c6af.png)
 
 
 1) CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
