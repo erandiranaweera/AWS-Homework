@@ -58,7 +58,11 @@ During this lab session I was able to setup a webserver EC2 instance starting fr
 video - https://www.youtube.com/watch?v=CvkKIukl_dI
 
 6) CREATE YOUR FIRST AMAZON RDS DATABASE
-
+#
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks.Amazon RDS provides six familiar database engines to choose from, including Amazon Aurora, Oracle, Microsoft SQL Server, PostgreSQL, MySQL and MariaDB.
+#
+This lab session is focused on Amazon RDS. Follow along and learn to create and use first RDS database with Amazon AWS.
+#
 video-1 - https://www.youtube.com/watch?v=gnjf4a2AZ_A
 video-2 - https://www.youtube.com/watch?v=aBKb-n2fofg
 
