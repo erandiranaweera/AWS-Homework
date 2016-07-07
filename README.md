@@ -7,6 +7,11 @@ Following lab sessions were completed
 - CREATE YOUR FIRST AMAZON S3 BUCKET
 - CREATE AN EBS-BACKED LINUX AMI
 - CREATE YOUR FIRST AMAZON RDS DATABASE
+![image](https://cloud.githubusercontent.com/assets/18344284/16667669/4857d3be-44ab-11e6-96f0-7e6957f67ad3.png)
+
+#
+Used Services 
+
 
 1) CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
 #
