@@ -10,15 +10,14 @@ Following lab sessions were completed
 ![image](https://cloud.githubusercontent.com/assets/18344284/16667669/4857d3be-44ab-11e6-96f0-7e6957f67ad3.png)
 
 #
-Used Services 
-![image](https://cloud.githubusercontent.com/assets/18344284/16667819/0432762a-44ac-11e6-843b-94ec8b98c6af.png)
 
 
 1) CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
 #
 ** Amazon EC2 - Virtual Server Hosting 
 #
-
+![image](https://cloud.githubusercontent.com/assets/18344284/16667923/5e392ee8-44ac-11e6-8d86-6cacfc1c5a6b.png)
+ 
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers.
 It has a Virtual computing environments, known as instances also it contains preconfigured templates for those instances, known as Amazon Machine Images (AMIs), that package the bits which need for  server (including the operating system and additional software)
 
