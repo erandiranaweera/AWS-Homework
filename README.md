@@ -9,10 +9,10 @@ Following lab sessions were completed
 - CREATE YOUR FIRST AMAZON RDS DATABASE
  #
 ![image](https://cloud.githubusercontent.com/assets/18344284/16667669/4857d3be-44ab-11e6-96f0-7e6957f67ad3.png)
-#
+
 Amazon Web Services (AWS), is a subsidiary of Amazon.com, which offers a suite of cloud computing services that make up an on-demand computing platform. 
 ![image](https://cloud.githubusercontent.com/assets/18344284/16668553/19e2028a-44af-11e6-9cba-aed9ffade04d.png)
-#
+
 
 1) CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
 #
